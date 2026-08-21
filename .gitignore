@@ -1,0 +1,11 @@
+# Локальный кэш инструментов (например, Kilo Code node_modules) — не версионируем
+.kilo/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Секреты
+.env
