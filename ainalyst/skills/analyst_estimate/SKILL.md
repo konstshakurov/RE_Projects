@@ -15,8 +15,8 @@ description: >
   нормочасы», «сделай оценку трудозатрат», «сколько часов на аналитику»,
   «оценка по EstimateRE», «оценка объёма работ БА», «создай оценку», «оцени
   продуктовый проект» (когда речь о трудозатратах, а не о ценности/рисках).
-project: "AI-powered Platform AInalyst (AI Платформа AIналитик)"
-copyright: "Copyright (c) 2026 Anatoly Chaussky. Licensed under AGPL v3. Commercial licensing: chaussky@gmail.com"
+project: "RE_Projects_ainalyst"
+copyright: "Copyright (c) 2026 Konstantin Shakurov. Licensed under AGPL v3. Commercial licensing: konstshakurov@gmail.com"
 ---
 
 # SKILL: Оценка трудозатрат аналитика по нормочасам СимбирСофт
