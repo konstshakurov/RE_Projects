@@ -20,8 +20,8 @@ description: >
   на предпроект уже есть) — не путать с «оцени discovery/пресейл» и «оцени
   продуктовый проект» (это `analyst_estimate` — оценка трудозатрат, а не
   выполнение предпроекта).
-project: "AI-powered Platform AInalyst (AI Платформа AIналитик)"
-copyright: "Copyright (c) 2026 Anatoly Chaussky. Licensed under AGPL v3. Commercial licensing: chaussky@gmail.com"
+project: "RE_Projects_ainalyst"
+copyright: "Copyright (c) 2026 Konstantin Shakurov. Licensed under AGPL v3. Commercial licensing: konstshakurov@gmail.com"
 ---
 
 # SKILL: Предпроект — техническая «Концепция проекта»
