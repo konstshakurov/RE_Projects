@@ -66,7 +66,7 @@ copyright: "Copyright (c) 2026 Konstantin Shakurov. Licensed under AGPL v3. Comm
    `projects/Rules/Rules.md`) там, где они регламентируют процесс (папки,
    версионирование, работа с входными данными).
 3. **Только если пп.1–2 не покрывают раздел** — экспертиза LLM напрямую
-   (5 раздел из 13 покрыты так — см. пробелы в таблице ниже), явно
+   (4 раздела из 13 покрыты так — см. пробелы в таблице ниже), явно
    помечая в тексте раздела, что содержимое сформировано LLM без
    отдельного MCP-инструмента.
 
@@ -96,7 +96,7 @@ copyright: "Copyright (c) 2026 Konstantin Shakurov. Licensed under AGPL v3. Comm
 | 8. Требования — НФТ/СТ | ❌ | — (нет типа в MCP; markdown-таблица напрямую, см. пробелы) |
 | 9. Варианты решения | ✅ | `design_options.create_design_option` / `compare_design_options` (7.5) |
 | 10. Выбор и обоснование | ✅ | `value_recommend.add_value_assessment` / `compare_value` / `save_recommendation` (7.6) |
-| 11. Архитектурная концепция (C4) | ❌ | — (нет скилла для C4-диаграмм; LLM/Архитектор) |
+| 11. Архитектурная концепция (C4) | 🟡 | `analyst_it_architecture`, объём Этапа 1 (Blueprint + Context + Container diagram); приоритетно ведёт Архитектор |
 | 12. Технологический стек | 🟡 | `design_options` (7.5), переиспользование |
 | 13. Реестр рисков (внешние) | ✅ | `risk_assessment.add_risk` / `run_risk_matrix` / `save_risk_assessment` (6.3) |
 | Согласование по разделам | ✅ | `requirements_approve.prepare_approval_package` / `record_approval_decision` (5.5) |
@@ -130,7 +130,7 @@ copyright: "Copyright (c) 2026 Konstantin Shakurov. Licensed under AGPL v3. Comm
         ↓
 10. Раздел 10 — выбор и обоснование (архитектор) — 7.6
         ↓
-11. Раздел 11 — архитектурная концепция, C4 (архитектор) — LLM
+11. Раздел 11 — архитектурная концепция, C4 (архитектор) — `analyst_it_architecture` (Этап 1)
         ↓
 12. Раздел 12 — технологический стек (архитектор) — 7.5, LLM
         ↓
