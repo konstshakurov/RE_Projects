@@ -92,6 +92,14 @@
       "command": "python",
       "args": ["C:/Dev/GitHub/konstshakurov/RE_Projects/ainalyst/skills/analyst_db_designer_getanalyst_mcp.py"]
     },
+    "getanalyst-restapi-designer": {
+      "command": "python",
+      "args": ["C:/Dev/GitHub/konstshakurov/RE_Projects/ainalyst/skills/analyst_restapi_designer_getanalyst_mcp.py"]
+    },
+    "getanalyst-uml-sequence": {
+      "command": "python",
+      "args": ["C:/Dev/GitHub/konstshakurov/RE_Projects/ainalyst/skills/analyst_uml_sequence_getanalyst_mcp.py"]
+    },
     "linear-server": {
       "type": "http",
       "url": "https://mcp.linear.app/mcp"
