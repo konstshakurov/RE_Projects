@@ -2,91 +2,95 @@
   "mcpServers": {
     "babok-ch3": {
       "command": "python",
-      "args": ["C:/Dev/RE_Projects/ainalyst/skills/planning_mcp.py"]
+      "args": ["C:/Dev/GitHub/konstshakurov/RE_Projects/ainalyst/skills/planning_mcp.py"]
     },
     "babok-confluence": {
       "command": "python",
-      "args": ["C:/Dev/RE_Projects/ainalyst/skills/integrations/confluence_mcp.py"]
+      "args": ["C:/Dev/GitHub/konstshakurov/RE_Projects/ainalyst/skills/integrations/confluence_mcp.py"]
     },
     "babok-ch4-41": {
       "command": "python",
-      "args": ["C:/Dev/RE_Projects/ainalyst/skills/elicitation_mcp.py"]
+      "args": ["C:/Dev/GitHub/konstshakurov/RE_Projects/ainalyst/skills/elicitation_mcp.py"]
     },
     "babok-ch4-42": {
       "command": "python",
-      "args": ["C:/Dev/RE_Projects/ainalyst/skills/elicitation_conduct_mcp.py"]
+      "args": ["C:/Dev/GitHub/konstshakurov/RE_Projects/ainalyst/skills/elicitation_conduct_mcp.py"]
     },
     "babok-ch4-43": {
       "command": "python",
-      "args": ["C:/Dev/RE_Projects/ainalyst/skills/elicitation_confirm_mcp.py"]
+      "args": ["C:/Dev/GitHub/konstshakurov/RE_Projects/ainalyst/skills/elicitation_confirm_mcp.py"]
     },
     "babok-ch4-44": {
       "command": "python",
-      "args": ["C:/Dev/RE_Projects/ainalyst/skills/elicitation_communicate_mcp.py"]
+      "args": ["C:/Dev/GitHub/konstshakurov/RE_Projects/ainalyst/skills/elicitation_communicate_mcp.py"]
     },
     "babok-ch4-45": {
       "command": "python",
-      "args": ["C:/Dev/RE_Projects/ainalyst/skills/elicitation_collaborate_mcp.py"]
+      "args": ["C:/Dev/GitHub/konstshakurov/RE_Projects/ainalyst/skills/elicitation_collaborate_mcp.py"]
     },
     "babok-ch5-51": {
       "command": "python",
-      "args": ["C:/Dev/RE_Projects/ainalyst/skills/requirements_traceability_mcp.py"]
+      "args": ["C:/Dev/GitHub/konstshakurov/RE_Projects/ainalyst/skills/requirements_traceability_mcp.py"]
     },
     "babok-ch5-52": {
       "command": "python",
-      "args": ["C:/Dev/RE_Projects/ainalyst/skills/requirements_maintain_mcp.py"]
+      "args": ["C:/Dev/GitHub/konstshakurov/RE_Projects/ainalyst/skills/requirements_maintain_mcp.py"]
     },
     "babok-ch5-53": {
       "command": "python",
-      "args": ["C:/Dev/RE_Projects/ainalyst/skills/requirements_prioritize_mcp.py"]
+      "args": ["C:/Dev/GitHub/konstshakurov/RE_Projects/ainalyst/skills/requirements_prioritize_mcp.py"]
     },
     "babok-ch5-54": {
       "command": "python",
-      "args": ["C:/Dev/RE_Projects/ainalyst/skills/requirements_assess_changes_mcp.py"]
+      "args": ["C:/Dev/GitHub/konstshakurov/RE_Projects/ainalyst/skills/requirements_assess_changes_mcp.py"]
     },
     "babok-ch5-55": {
       "command": "python",
-      "args": ["C:/Dev/RE_Projects/ainalyst/skills/requirements_approve_mcp.py"]
+      "args": ["C:/Dev/GitHub/konstshakurov/RE_Projects/ainalyst/skills/requirements_approve_mcp.py"]
     },
     "babok-ch6-61": {
       "command": "python",
-      "args": ["C:/Dev/RE_Projects/ainalyst/skills/current_state_mcp.py"]
+      "args": ["C:/Dev/GitHub/konstshakurov/RE_Projects/ainalyst/skills/current_state_mcp.py"]
     },
     "babok-ch6-62": {
       "command": "python",
-      "args": ["C:/Dev/RE_Projects/ainalyst/skills/future_state_mcp.py"]
+      "args": ["C:/Dev/GitHub/konstshakurov/RE_Projects/ainalyst/skills/future_state_mcp.py"]
     },
     "babok-ch6-63": {
       "command": "python",
-      "args": ["C:/Dev/RE_Projects/ainalyst/skills/risk_assessment_mcp.py"]
+      "args": ["C:/Dev/GitHub/konstshakurov/RE_Projects/ainalyst/skills/risk_assessment_mcp.py"]
     },
     "babok-ch6-64": {
       "command": "python",
-      "args": ["C:/Dev/RE_Projects/ainalyst/skills/change_strategy_mcp.py"]
+      "args": ["C:/Dev/GitHub/konstshakurov/RE_Projects/ainalyst/skills/change_strategy_mcp.py"]
     },
     "babok-ch7-71": {
       "command": "python",
-      "args": ["C:/Dev/RE_Projects/ainalyst/skills/requirements_spec_mcp.py"]
+      "args": ["C:/Dev/GitHub/konstshakurov/RE_Projects/ainalyst/skills/requirements_spec_mcp.py"]
     },
     "babok-ch7-72": {
       "command": "python",
-      "args": ["C:/Dev/RE_Projects/ainalyst/skills/requirements_verify_mcp.py"]
+      "args": ["C:/Dev/GitHub/konstshakurov/RE_Projects/ainalyst/skills/requirements_verify_mcp.py"]
     },
     "babok-ch7-73": {
       "command": "python",
-      "args": ["C:/Dev/RE_Projects/ainalyst/skills/requirements_validate_mcp.py"]
+      "args": ["C:/Dev/GitHub/konstshakurov/RE_Projects/ainalyst/skills/requirements_validate_mcp.py"]
     },
     "babok-ch7-74": {
       "command": "python",
-      "args": ["C:/Dev/RE_Projects/ainalyst/skills/requirements_architecture_mcp.py"]
+      "args": ["C:/Dev/GitHub/konstshakurov/RE_Projects/ainalyst/skills/requirements_architecture_mcp.py"]
     },
     "babok-ch7-75": {
       "command": "python",
-      "args": ["C:/Dev/RE_Projects/ainalyst/skills/design_options_mcp.py"]
+      "args": ["C:/Dev/GitHub/konstshakurov/RE_Projects/ainalyst/skills/design_options_mcp.py"]
     },
     "babok-ch7-76": {
       "command": "python",
-      "args": ["C:/Dev/RE_Projects/ainalyst/skills/value_recommend_mcp.py"]
+      "args": ["C:/Dev/GitHub/konstshakurov/RE_Projects/ainalyst/skills/value_recommend_mcp.py"]
+    },
+    "getanalyst-db-designer": {
+      "command": "python",
+      "args": ["C:/Dev/GitHub/konstshakurov/RE_Projects/ainalyst/skills/analyst_db_designer_getanalyst_mcp.py"]
     },
     "linear-server": {
       "type": "http",
